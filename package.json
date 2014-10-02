@@ -1,0 +1,22 @@
+{
+  "name": "addon-httpd",
+  "version": "0.0.1",
+  "description": "Basic httpd server for add-on unit testing",
+  "main": "httpd.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "httpd",
+    "jetpack",
+    "addon",
+    "add-on",
+    "firefox"
+  ],
+  "author": "Erik Vold <evold@mozilla.com> (http://work.erikvold.com/)",
+  "license": "MPL v2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/erikvold/addon-httpd.git"
+  }
+}
